@@ -1,7 +1,6 @@
 # analysis.md — Written Answers
 
 **Internship Assessment Task: Python Development**
-MyUpsideDownLab LLP
 
 ---
 
